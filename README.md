@@ -23,7 +23,7 @@ Welcome to my personal repository showcasing my journey through the **LTTS STEPI
 - Earned certificate for Git training from **Simplilearn**.
 
 ### 🏆 Git Certificate Preview:
-![Git Training Certificate](GIT Training/certificate.png)
+![Git Training Certificate](GIT%20Training/certificate.png)
 
 ---
 

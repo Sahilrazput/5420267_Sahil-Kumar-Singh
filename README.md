@@ -29,13 +29,7 @@ Welcome to my personal repository showcasing my journey through the **LTTS STEPI
 
 ## 📂 Folder Structure
 
-5420267_Sahil-Kumar-Singh/
-├── SDLC/
-│ └── Agile-for-beginners-completion.png
-├── GIT Training/
-│ └── certificate.png
-│ └── GIT Training Certificate.pdf
-└── README.md
+<pre> ## 📂 Folder Structure ``` 5420267_Sahil-Kumar-Singh/ ├── SDLC/ │ └── Agile-for-beginners-completion.png ├── GIT Training/ │ └── certificate.png └── GIT Training Certificate.pdf └── README.md ``` </pre>
 
 ---
 

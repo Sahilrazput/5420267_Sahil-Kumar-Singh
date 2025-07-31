@@ -27,11 +27,26 @@ Welcome to my personal repository showcasing my journey through the **LTTS STEPI
 
 ---
 
-## 📂 Folder Structure
+## 🖥️ Week 3 – Module 3: *Basics of Linux Commands*
 
-``` 5420267_Sahil-Kumar-Singh/ ├── SDLC/ │ └── Agile-for-beginners-completion.png ├── GIT Training/ │ └── certificate.png └── GIT Training Certificate.pdf └── README.md ```
+- Practiced over 30 foundational **Linux commands** related to:
+  - System information: `date`, `whoami`, `printenv`
+  - File operations and shell utilities: `echo`, `cat`, `man`, `whatis`
+  - Package management using `apt`
+- Explored command line tools like `bc`, `cal`, and `info`.
+- Commands were executed and screenshots were captured over 3 days for documentation.
 
----
+### 📁 Linux Practice Folder:
+All screenshots and command history have been organized into the [`LINUX/`](LINUX/) folder with day-wise breakdown:
+
+| Day | Description | Link |
+|-----|-------------|------|
+| Day 1 | Basic shell commands and system utilities | [View Day 1](LINUX/D1S1.png) |
+| Day 2 | Package management and shell exploration | [View Day 2](LINUX/D2S1.png) |
+| Day 3 | Final practice and terminal operations | [View Day 3](LINUX/D3S1.png) |
+
+> 📄 See the [`README.md`](LINUX/README.md) inside the `LINUX/` folder for full details and screenshot references.
+
 
 ## 📌 Highlights
 

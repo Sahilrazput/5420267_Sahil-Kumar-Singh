@@ -25,29 +25,6 @@ Welcome to my personal repository showcasing my journey through the **LTTS STEPI
 ### 🏆 Git Certificate Preview:
 ![Git Training Certificate](GIT%20Training/certificate.png)
 
----
-
-## 🖥️ Week 3 – Module 3: *Basics of Linux Commands*
-
-- Practiced over 30 foundational **Linux commands** related to:
-  - System information: `date`, `whoami`, `printenv`
-  - File operations and shell utilities: `echo`, `cat`, `man`, `whatis`
-  - Package management using `apt`
-- Explored command line tools like `bc`, `cal`, and `info`.
-- Commands were executed and screenshots were captured over 3 days for documentation.
-
-### 📁 Linux Practice Folder:
-All screenshots and command history have been organized into the [`LINUX/`](LINUX/) folder with day-wise breakdown:
-
-| Day | Description | Link |
-|-----|-------------|------|
-| Day 1 | Basic shell commands and system utilities | [View Day 1](LINUX/D1S1.png) |
-| Day 2 | Package management and shell exploration | [View Day 2](LINUX/D2S1.png) |
-| Day 3 | Final practice and terminal operations | [View Day 3](LINUX/D3S1.png) |
-
-> 📄 See the [`README.md`](LINUX/README.md) inside the `LINUX/` folder for full details and screenshot references.
-
-
 ## 📌 Highlights
 
 - 🧠 Knowledge of development models and agile workflows.
@@ -55,5 +32,39 @@ All screenshots and command history have been organized into the [`LINUX/`](LINU
 - 📝 Certified proof of learning and participation.
 
 ---
+
+## 🖥️ Week 3 – Module 3: *Mastering Linux Command Line*
+
+- Practiced and executed over **400 Linux commands** across 3+ days of hands-on sessions.
+- Gained deep understanding of:
+  - 📅 **Date and time formatting** using `date`, `cal`, `ncal`
+  - 🧮 **Command-line math** with `bc`, `expr`
+  - 🐧 **System information utilities**: `uname`, `whoami`, `printenv`, `echo`, `seq`, `rev`
+  - 📂 **File and directory operations**: `ls`, `cd`, `mkdir`, `mv`, `cp`, `touch`, `nano`, `cat`, `wc`, `tac`
+  - 🧠 **Command lookup tools**: `whatis`, `whereis`, `info`, `man`
+  - ⚙️ **Package management** using `apt`, `sudo`, and essential package installations
+- Developed proficiency in shell scripting basics (`echo`, `printf`, redirection), and terminal-based navigation.
+
+### 📸 Terminal Screenshot Evidence:
+All screenshots and command history logs are stored in the [`LINUX/`](LINUX/) folder. Screenshots are organized **day-wise** and represent different stages of hands-on Linux practice:
+
+| Day | Description | Screenshot Links |
+|-----|-------------|------------------|
+| Day 1 | Shell basics, date, bc, environment, and intro to commands | `D1S1.png` to `D1S4.png` |
+| Day 2 | Package installation, advanced `date`, `cal`, `info`, and file commands | `D2S1.png` to `D2S3.png` |
+| Day 3 | File operations, redirection, C program compilation using `gcc`, and cleanup | `D3S1.png` to `D3S3.png` |
+
+> 📂 Explore the [`LINUX/README.md`](LINUX/README.md) file for a detailed breakdown with image previews.
+
+---
+
+## 🧠 Key Takeaways
+
+- ✅ Practiced **real-world Linux terminal usage** and command workflows.
+- ✅ Demonstrated **terminal fluency** by working with over 400 commands.
+- ✅ Used tools like `gcc`, `nano`, `cat`, and `bc` to explore both scripting and compiling aspects.
+- 📸 Documented progress clearly using organized screenshots.
+
+> ✨ *This marks the completion of my third week in the LTTS STEPIn Training Program, with strong command-line confidence and working knowledge of Linux.*
 
 > ✨ *This repository serves as a digital portfolio of my pre-joining training program with LTTS.*
